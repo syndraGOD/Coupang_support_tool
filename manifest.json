@@ -1,0 +1,10 @@
+{
+  "name": "C_Copy_1.0",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Copy Tool",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs", "<all_urls>"]
+}
